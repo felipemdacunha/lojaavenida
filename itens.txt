@@ -1,0 +1,6 @@
+Camiseta Nike;Camiseta esportiva;89.9;P/M/G/GG;https://images.tcdn.com.br/img/img_prod/731602/camiseta_nike_miller_uv_team_2359_1_4ff4efaf726687384ff74c5a39cf5bd2.jpg
+Calca de Treino;Esportes;109.9;P/M/G/GG;https://imgcentauro-a.akamaihd.net/660x660/98833002A5.jpg
+teste testando;F;120;GG;
+teste testado;M;12;M;
+Bruza;Feminia;99;P;
+LOLJA;M;12;M;
